@@ -126,7 +126,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-9\">CONVOCATORIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#countdown1-z\">PLAZOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features9-i\">LÍNEAS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-n\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-9\">CONVOCATORIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#countdown1-z\">PLAZOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features9-i\">LÍNEAS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-n\">CONTACTO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://ferianacional.typeform.com/to/zUSs73\" target=\"_blank\">INSCRIPCIONES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -202,7 +202,7 @@
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
           "title": "PRIMERA FERIA NACIONAL DE PROYECTOS DE INVESTIGACIÓN DE &nbsp;ESTUDIANTES INGENIERÍA EN CONSTRUCCIÓN",
           "text": "<span style=\"font-style: normal;\">5 Y 6 DE DICIEMBRE DE 2019</span>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-text btn-primary\" href=\"index.html#tabs1-7\" data-toolbar=\"-mbrBtnMove\">Inscripciones aquí</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-text btn-primary\" href=\"index.html#countdown1-z\" data-toolbar=\"-mbrBtnMove\">Inscripciones aquí</a>",
           "alias": "colorm/components",
           "_tags": [
             "Tema"
@@ -616,7 +616,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">No te quedes fuera de la &nbsp;Primera Feria de Investigación de Ingeniería en Consrucción</span>",
           "text": "5 Y 6 DE DICIEMBRE DE 2019",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">inscripciones</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://ferianacional.typeform.com/to/zUSs73\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">inscripciones</a>",
           "alias": "colorm/components",
           "_tags": [
             "Tema"
