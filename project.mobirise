@@ -32,7 +32,7 @@
     "siteUrl": "undefined",
     "google-analytics": "",
     "gdpr": "",
-    "uniqCompNum": 42,
+    "uniqCompNum": 39,
     "versionPublish": "4.10.5",
     "screenshot": "screenshot.png"
   },
@@ -545,7 +545,7 @@
             "overlayOpacity": 0.75
           },
           "title": "PLAZOS",
-          "text": "<b>Convocatoria</b>: Desde el 16 de septiembre de 2019 al 20 de octubre del 2019 hasta las 16:00 horas. <br><b>Notificación resultados:</b> Se notificará al correo electrónico ingresado en el formulario de inscripción entre el 11 y el 17 de noviembre de 2019. <br><b>Feria Nacional:</b> Se llevará a cabo los días 5 y 6 de diciembre de 2019.&nbsp;",
+          "text": "<b>Convocatoria</b>: Desde el 16 de septiembre de 2019 al 20 de octubre del 2019 hasta las 16:00 horas. <br><b>Notificación resultados:</b> Se notificará al correo electrónico ingresado en el formulario de inscripción entre el 11 y el 17 de noviembre de 2019. <br><b>Feria Nacional:</b> Se llevará a cabo los días 5 y 6 de diciembre en la Escuela de Ingeniería en Construcción de la Universidad del Bío-Bío.",
           "alias": "colorm/components",
           "_tags": [
             "Tema"
