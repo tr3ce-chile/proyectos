@@ -115,7 +115,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-9\">CONVOCATORIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features9-i\">LÍNEAS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#countdown1-z\">PLAZOS Y POSTULACIONES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-n\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-9\">CONVOCATORIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#countdown1-z\">PLAZOS Y POSTULACIONES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features9-i\">LÍNEAS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-n\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -635,7 +635,7 @@
             "overlayColor": "#2c3e50",
             "overlayOpacity": 0.5
           },
-          "mainTitle": "<span style=\"font-weight: normal;\">LINEAS DE INVESTIGACIÓN</span>",
+          "mainTitle": "<span style=\"font-weight: normal;\">LÍNEAS DE INVESTIGACIÓN</span>",
           "mainSubtitle": "6 líneas de Investigación a las que puedes postular",
           "title1": "MATERIALES DE CONSTRUCCIÓN",
           "title2": "SISTEMAS &nbsp;CONSTRUCTIVOS",
